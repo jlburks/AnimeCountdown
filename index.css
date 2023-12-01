@@ -2,7 +2,20 @@ body {
   background-color: rgb(224, 224, 224);
 }
 #title {
-  text-align: center;
   font-family: "Cute Font", cursive;
   font-size: xx-large;
+}
+#poster {
+  width: 210px;
+  height: auto;
+}
+.center {
+  text-align: center;
+}
+#episodeCount {
+  font-family: "Courier New", Courier, monospace;
+}
+#reaminingTime {
+  font-family: "Black Ops One", cursive;
+  font-size: 50px;
 }
